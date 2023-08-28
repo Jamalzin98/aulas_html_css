@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exemplo de formulários</title>
+</head>
+<body>
+    <form>
+        <!--Input tipo texto-->
+        <label for="texto">texto:</label>
+        <input type="text" id="texto" name="texto">
+
+        <!--Input tipo senha-->
+        <label for="inputsenha">Senha:</label>
+        <input type="password" id="senha" name="senha">
+
+        <!--Input tipo email-->
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email">
+
+        <!-- Grupo de inputs tipo rádio-->
+        <fieldset>
+            <legend>Escolha uma opção:</legend>
+            <input type="radio" id="opcao1" name="opcao" value="opcao1">
+            <label for="opcao1">Opção 1</label>
+            <input type="radio" id="opcao2" name="opcao" value="opcao2">
+            <label for="opcao2">Opção2</label>
+            <input type="radio" id="opcao3" name="opcao" value="opcao3">
+            <label for="opcao3">Opção 3</label>
+            <input type="radio" id="opcao4" name="opcao" value="opcao4">
+            <label for="opcao4">Opcão 4</label>
+        </fieldset>
+        <!--Select com opções-->
+        <label for="selecionarOpçao">Selecione uma opção:</label>
+        <select name="selecionarOpçao" id="selecionarOpçao">
+        <option value="opcao1">Opção 1</option>
+        <option value="opcao2">Opção 2</option>
+        <option value="opcao3">Opção 3</option>
+        <option value="opcao4">Opção 4</option>
+    </select>
+    
+    <!--Botão de envio-->
+    <input type="submit" value="Enviar">
+    </form>    
+
+</body>
+</html>
