@@ -1,18 +1,13 @@
-body {
-    background-image: url(https://s1.static.brasilescola.uol.com.br/be/conteudo/images/uniao-sovietica.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 header {
     text-align: center;
     padding: 20px;
     color: white;
-    background-color: #f00000; /* Vermelho */
+    background-color: #CA282C; /* Vermelho */
 }
 
 nav {
-    background-color: #f00000; /* Vermelho */
+    background-color: #CA282C; /* Vermelho */
     padding: 10px;
 }
 
@@ -59,7 +54,7 @@ h2 {
 footer{
     text-align: center;
     padding: 10px;
-    background-color: #f00000; /* Vermelho */
+    background-color: #CA282C; /* Vermelho */
     color: white;
 }
 .uniao{
@@ -72,19 +67,23 @@ footer{
 .texto{
     text-align: center;
     margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .texto2{
     text-align: center;
     margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .texto3{
     text-align: center;
     margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .texto4{
     text-align: center;
     margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .imagemstalin{
     text-align: center;
@@ -120,4 +119,25 @@ footer{
     text-align: center;
     margin: auto;
     margin-inline-end: 20px;
+}
+.letras1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.letras2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.letras3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.letras4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.minitexto1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.titulo1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.minititulo1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
