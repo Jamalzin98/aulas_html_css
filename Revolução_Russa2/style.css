@@ -69,3 +69,55 @@ footer{
 .uniao img{
     width: 200px;
 }
+.texto{
+    text-align: center;
+    margin: auto;
+}
+.texto2{
+    text-align: center;
+    margin: auto;
+}
+.texto3{
+    text-align: center;
+    margin: auto;
+}
+
+.texto4{
+    text-align: center;
+    margin: auto;
+}
+.imagemstalin{
+    text-align: center;
+    margin: auto;
+}
+
+.imagemlenin{
+    text-align: center;
+    margin: auto;
+}
+
+.imagembandeira{
+    text-align: center;
+    margin: auto;
+    margin-inline-end: 20px;
+}
+.paragrafo1{
+    text-align: center;
+    margin: auto;
+    margin-inline-end: 20px;
+}
+.paragrafo2{
+    text-align: center;
+    margin: auto;
+    margin-inline-end: 20px;
+}
+.paragrafo3{
+    text-align: center;
+    margin: auto;
+    margin-inline-end: 20px;
+}
+.paragrafo4{
+    text-align: center;
+    margin: auto;
+    margin-inline-end: 20px;
+}
