@@ -1,0 +1,71 @@
+body {
+    background-image: url(https://s1.static.brasilescola.uol.com.br/be/conteudo/images/uniao-sovietica.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-color: #f00000; /* Vermelho */
+}
+
+nav {
+    background-color: #f00000; /* Vermelho */
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #E89C1E; /* Vermelho */
+}
+
+.imagens{
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagens img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #f00000; /* Vermelho */
+    color: white;
+}
+.uniao{
+    display: flex;
+    justify-content: center;
+}
+.uniao img{
+    width: 200px;
+}
